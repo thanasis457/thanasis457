@@ -1,9 +1,9 @@
 
 ## 👋 Introduction
 
-Hi, my name is Thanasis and I am a ML Engineer from Athens, Greece. I'm currently working at PayPal as a Backend & ML Enginner on **Transformer recommendation systems** and **agentic interfaces for merchants**.
+Hi, my name is Thanasis and I am a ML Engineer from Athens, Greece. I'm currently working at PayPal as a Backend & ML Engineer on **Transformer recommendation systems** and **agentic interfaces for merchants**.
 
-I currently work extensively with large scale systems with Java/Springboot and train models with CUDA and Pytorch.
+I work extensively on large scale systems with Java/Springboot and train models with CUDA and Pytorch. I also have experience with NodeJS, Electron, and Flutter for developing cross platform applications.
 
 
 ## 📚 Articles
